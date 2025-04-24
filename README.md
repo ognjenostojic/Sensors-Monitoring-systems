@@ -1,11 +1,11 @@
 # Smart Soil Moisture Logger Project – Ognjen Ostojić
 
-## 🌱 Project Goal
+## Project Goal
 Design and implement a real-time system that monitors and logs soil moisture levels for various plants using an Arduino Uno, capacitive soil moisture sensor, and DS3231 real-time clock module. The system logs readings over time and visualizes them through Python-generated graphs, allowing analysis of moisture retention across different plant types.
 
 ---
 
-## 🔧 Components Used
+## Components Used
 - Arduino Uno
 - Capacitive Soil Moisture Sensor v2.0
 - DS3231 RTC Module
@@ -16,7 +16,7 @@ Design and implement a real-time system that monitors and logs soil moisture lev
 
 ---
 
-## 📊 Observations
+## Observations
 - **Beans** retained high moisture (~98–100%)
 - **Lukovina** showed moderate drying over time
 - **Narcis** maintained steady mid-to-high moisture
