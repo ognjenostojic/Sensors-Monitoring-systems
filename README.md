@@ -24,5 +24,5 @@ Design and implement a real-time system that monitors and logs soil moisture lev
 
 ---
 
-## 🔍 Conclusion
+## Conclusion
 Different plants and soil types clearly affect moisture retention. The system reliably captured these trends and visualized them effectively, demonstrating both sensor accuracy and project utility.
